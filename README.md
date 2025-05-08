@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rilga&label=Profile%20views&color=0e75b6&style=flat" alt="rilga" /> </p>
+
 # 💻 Tech Stack:
 ##### Language
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
